@@ -106,9 +106,6 @@ box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) inset, 0px 4px 4px 0px rgba(121,
         </div>
     </div>
     <div class="row">
-
-
-
         <div class="col-md-12">
             <div class="weight_reconcilation_bg" style="padding: 2rem"
                 style="background: linear-gradient(93deg, rgba(17, 35, 165, 0.75) 0%, rgba(121, 57, 204, 0.52) 100%);">

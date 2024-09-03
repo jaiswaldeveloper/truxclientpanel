@@ -182,7 +182,7 @@
 
                 </div>
 
-                <div class="modal-footer m-auto d-flex mt-2">
+                <div class="modal-footer m-auto d-flex mt-2 flex-lg-nowrap w-100 flex-wrap">
                     <button type="button" class="btn btn-success lh-lg w-100">Add Pickup Request</button>
                     <button type="button" class="btn btn-outline-danger lh-lg w-100">Cancel Request</button>
                 </div>

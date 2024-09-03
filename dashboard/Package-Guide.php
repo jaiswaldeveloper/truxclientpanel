@@ -842,7 +842,7 @@
                                         fluids, tampering etc.</p>
                                     <div>
                                         <h4 class="my-4">Material</h4>
-                                        <div class="text-center">
+                                        <div class="S">
                                             <svg width="133" height="133" viewBox="0 0 133 133" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
                                                 <path
