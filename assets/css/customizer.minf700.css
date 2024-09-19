@@ -1627,7 +1627,8 @@ button.bg-soft-info:focus {
 
 .healthy_wallet {
     border-radius: 8px;
-    background: linear-gradient(277deg, #007736 0%, #7939CC 107.35%);
+    /* background: linear-gradient(277deg, #007736 0%, #7939CC 107.35%); */
+    background: linear-gradient(108deg, rgba(121, 57, 204, 0.70) 0%, rgba(70, 86, 163, 0.70) 57.02%, rgba(54, 203, 114, 0.70) 121.27%);
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
     padding: 20px;
     color: #fff;
@@ -1640,8 +1641,9 @@ button.bg-soft-info:focus {
 
 .healthy_wallet .glass {
     border-radius: 8px;
-    background: radial-gradient(239.74% 157.38% at 0.9% 2.98%, rgba(255, 255, 255, 0.09) 0%, rgba(255, 255, 255, 0.00) 100%);
-    box-shadow: 0px 0px 42px 0px #FFF inset;
+    /* background: radial-gradient(239.74% 157.38% at 0.9% 2.98%, rgba(255, 255, 255, 0.09) 0%, rgba(255, 255, 255, 0.00) 100%);
+    box-shadow: 0px 0px 42px 0px #FFF inset; */
+    border: 1px solid #fff;
     padding: 24px 20px;
 }
 

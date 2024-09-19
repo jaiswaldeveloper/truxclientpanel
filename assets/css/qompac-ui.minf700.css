@@ -20652,8 +20652,8 @@ body.offcanvas-active {
     -o-transition-timing-function: var(--sidebar-transition-function-ease);
     transition-timing-function: var(--sidebar-transition-function-ease);
     z-index: 910;
-    background: linear-gradient(180deg, #7939CC 0%, #008 100%);
-    color: var(--bs-primary);
+    background: linear-gradient(180deg, #B67EFF 0%, #2E2EBC 100%);
+        color: var(--bs-primary);
     -webkit-box-shadow: 0 0 30px rgba(var(--bs-primary-rgb), 0.05);
     box-shadow: 0 0 30px rgba(var(--bs-primary-rgb), 0.05)
 }
