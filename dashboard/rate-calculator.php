@@ -12,22 +12,25 @@
     background: #fff;
 }
 
-#displayValues{
-position: relative;
+#displayValues {
+    position: relative;
 }
-#displayValues .d-length{
+
+#displayValues .d-length {
     position: absolute;
     right: 14%;
     font-size: 16px;
     top: -24px;
 }
-#displayValues .d-width{
+
+#displayValues .d-width {
     position: absolute;
     right: 3%;
     font-size: 16px;
     top: -27px;
 }
-#displayValues .d-height{
+
+#displayValues .d-height {
     position: absolute;
     right: 0%;
     font-size: 16px;
@@ -335,50 +338,30 @@ position: relative;
                 <!-- <div class="col-md-1"></div> -->
                 <div class="col-lg-5">
                     <div class="shipping-rates mb-5"
-                        style="background: linear-gradient(92deg, #4656a3 49.9%, #7939cc 102.93%); border-radius: 8px; padding: 20px; height: 800px; ">
-                        <div class="accordion" id="accordionPanelsStayOpenExample">
-                            <div class="accordion-item">
-                                <div class="accordion-header" id="panelsStayOpen-headingOne">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true"
-                                        aria-controls="panelsStayOpen-collapseOne">
-                                        <div class="d-flex justify-content-between gap-5">
-                                            <div class="wraper-shiping">
-                                                <img src="https://b2b.truxcargo.com/assets/images/DTDC%20B2B.png" alt=""
-                                                    srcset="" style="width: 70px; height:70px" ;>
-                                            </div>
-                                            <div>
-                                                <div class="d-flex justify-content-between gap-5">
-                                                    <div>
-                                                        <h5 class="mt-2">DTDC B2B </h5>
-                                                        <p>Charged Wt : 55 Kg</p>
+                        >
+                        <div class="card" style="border: none">
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="col-md-5">
+                                        <div class="wraper-shiping">
+                                            <img src="https://b2b.truxcargo.com/assets/images/DTDC%20B2B.png" alt=""
+                                                srcset="" style="width: 70px; height:70px" ;>
+                                            <h3 class="my-2" style="color: #7939cc"> <small
+                                                    style="font-size: 12px ;color: #7939cc""><i
+                                                        class=" fa-solid fa-indian-rupee-sign"></i></small>
+                                                647.58
+                                            </h3>
+                                            <h6>Min Amt: 380+GST</h6>
+                                            <h6>Charged Wt:<span> 550kg</span></h6>
 
-
-                                                    </div>
-                                                    <div>
-                                                        <h3> <small style="font-size: 12px"><i
-                                                                    class="fa-solid fa-indian-rupee-sign"></i></small>
-                                                            647.58
-                                                        </h3>
-                                                        <p>Min Amt: 380+GST</p>
-                                                    </div>
-
-                                                </div>
-
-                                                <a class="btn btn-success btn-green-gradient rounded-pill w-100"
-                                                    style="padding: 6px 30px">Charges Bifurcation <i
-                                                        class="fa-solid fa-arrow-down fa-bounce"></i> </a>
-
-                                            </div>
                                         </div>
+                                    </div>
+                                    <div class="col-md-7">
+                                        <div class=" body_rate_cal">
+                                            <h4 class="mb-3 fw-bold" style="color: #7939cc">DTDC B2B </h4>
 
-                                    </button>
-                                </div>
-                                <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show"
-                                    aria-labelledby="panelsStayOpen-headingOne">
-                                    <div class="accordion-body">
-                                        <div class="card-body body_rate_cal">
                                             <ul class="">
+
                                                 <li>Charged Weight:<span> 550kg</span></li>
                                                 <li>Weight Charge <small>(6.2/kg):</small><span>
                                                         <i class="fa-solid fa-indian-rupee-sign"></i>3410</span></li>
@@ -396,50 +379,34 @@ position: relative;
                                         </div>
                                     </div>
                                 </div>
+
+
+                                
                             </div>
+                        </div>
+                        <div class="card" style="border: none">
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="col-md-5">
+                                        <div class="wraper-shiping">
+                                            <img src="https://b2b.truxcargo.com/assets/images/DTDC%20B2B.png" alt=""
+                                                srcset="" style="width: 70px; height:70px" ;>
+                                            <h3 class="my-2" style="color: #7939cc"> <small
+                                                    style="font-size: 12px ;color: #7939cc""><i
+                                                        class=" fa-solid fa-indian-rupee-sign"></i></small>
+                                                647.58
+                                            </h3>
+                                            <h6>Min Amt: 380+GST</h6>
+                                            <h6>Charged Wt:<span> 550kg</span></h6>
 
-                            <div class="accordion-item">
-                                <div class="accordion-header" id="panelsStayOpen-headingTwo">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false"
-                                        aria-controls="panelsStayOpen-collapseTwo">
-                                        <div class="d-flex justify-content-between gap-5">
-                                            <div class="wraper-shiping">
-                                                <img src="https://b2b.truxcargo.com/assets/images/DTDC%20B2B.png" alt=""
-                                                    srcset="" style="width: 70px; height:70px" ;>
-                                            </div>
-                                            <div>
-                                                <div class="d-flex justify-content-between gap-5">
-                                                    <div>
-                                                        <h5 class="mt-2">DTDC B2B </h5>
-                                                        <p>Charged Wt : 55 Kg</p>
-
-
-                                                    </div>
-                                                    <div>
-                                                        <h3> <small style="font-size: 12px"><i
-                                                                    class="fa-solid fa-indian-rupee-sign"></i></small>
-                                                            647.58
-                                                        </h3>
-                                                        <p>Min Amt: 380+GST</p>
-                                                    </div>
-
-                                                </div>
-
-                                                <a class="btn btn-success btn-green-gradient rounded-pill w-100"
-                                                    style="padding: 6px 30px">Charges Bifurcation <i
-                                                        class="fa-solid fa-arrow-down fa-bounce"></i> </a>
-
-                                            </div>
                                         </div>
+                                    </div>
+                                    <div class="col-md-7">
+                                        <div class=" body_rate_cal">
+                                            <h4 class="mb-3 fw-bold" style="color: #7939cc">DTDC B2B </h4>
 
-                                    </button>
-                                </div>
-                                <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse"
-                                    aria-labelledby="panelsStayOpen-headingTwo">
-                                    <div class="accordion-body">
-                                        <div class="card-body body_rate_cal">
                                             <ul class="">
+
                                                 <li>Charged Weight:<span> 550kg</span></li>
                                                 <li>Weight Charge <small>(6.2/kg):</small><span>
                                                         <i class="fa-solid fa-indian-rupee-sign"></i>3410</span></li>
@@ -457,18 +424,67 @@ position: relative;
                                         </div>
                                     </div>
                                 </div>
+
+
+                                
                             </div>
+                        </div>
+
+                        <div class="card" style="border: none">
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="col-md-5">
+                                        <div class="wraper-shiping">
+                                            <img src="https://b2b.truxcargo.com/assets/images/DTDC%20B2B.png" alt=""
+                                                srcset="" style="width: 70px; height:70px" ;>
+                                            <h3 class="my-2" style="color: #7939cc"> <small
+                                                    style="font-size: 12px ;color: #7939cc""><i
+                                                        class=" fa-solid fa-indian-rupee-sign"></i></small>
+                                                647.58
+                                            </h3>
+                                            <h6>Min Amt: 380+GST</h6>
+                                            <h6>Charged Wt:<span> 550kg</span></h6>
+
+                                        </div>
+                                    </div>
+                                    <div class="col-md-7">
+                                        <div class=" body_rate_cal">
+                                            <h4 class="mb-3 fw-bold" style="color: #7939cc">DTDC B2B </h4>
+
+                                            <ul class="">
+
+                                                <li>Charged Weight:<span> 550kg</span></li>
+                                                <li>Weight Charge <small>(6.2/kg):</small><span>
+                                                        <i class="fa-solid fa-indian-rupee-sign"></i>3410</span></li>
+                                                <li>Docket Charge: <span><i
+                                                            class="fa-solid fa-indian-rupee-sign"></i>100</span></li>
+                                                <li>Fuel Surcharge:<span><i
+                                                            class="fa-solid fa-indian-rupee-sign"></i>682</span></li>
+                                                <li>ROV Charge:<span><i
+                                                            class="fa-solid fa-indian-rupee-sign"></i>100</span>
+                                                </li>
+                                                <li>GST:<span><i
+                                                            class="fa-solid fa-indian-rupee-sign"></i>1267.56</span>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
 
 
+                                
+                            </div>
                         </div>
 
 
+
+
                     </div>
 
-                    <div>
+                    <!-- <div>
                         <img src="../assets/images/calculator/slide1-map.png" class="d-block w-100" alt="...">
 
-                    </div>
+                    </div> -->
 
                 </div>
             </div>

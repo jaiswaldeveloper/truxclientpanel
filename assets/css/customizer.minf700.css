@@ -3079,22 +3079,34 @@ i.fa-solid.fa-circle-check {
 .mobile_version.plan_comparision {
     display: none;
 }
-31
+.shipping-rates{
+    background: linear-gradient(180deg, rgba(121, 57, 204, 0.2) 0%, rgba(18, 24, 197, 0.2) 100%);
+    border-radius: 8px;
+    padding: 20px;
+    height: 800px;
+    overflow-y: scroll;
+    width: 100%;
+}
+
 .wraper-shiping {
-    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+    box-shadow: 0px 4px 4px 0px #7939CC66;
     background: #fff;
     padding: 10px;
-    border-radius: 10px;
+    border-radius: 5px;
+    /* width: 35%; */
+    text-align: center;
+    border: 1px solid #7939cc;
+
 }
 
 .body_rate_cal {
-    border-radius: 8px;
+    /* border-radius: 8px;
     padding: 20px;
-    background: linear-gradient(319deg, #4656a3 49.9%, #7939cc 102.93%);
+    background: linear-gradient(319deg, #4656a3 49.9%, #7939cc 102.93%); */
 }
 
 .body_rate_cal ul {
-    color: #fff;
+    color: #000000;
     list-style: none;
     padding: initial;
     margin: 0;
@@ -3102,9 +3114,7 @@ i.fa-solid.fa-circle-check {
 
 .body_rate_cal ul li {
     position: relative;
-    line-height: 2;
-    font-weight: 300;
-    border-bottom: 1px solid #fff;
+    line-height: 2.5;
 
 
 }
@@ -3115,14 +3125,14 @@ i.fa-solid.fa-circle-check {
 }
 
 .body_rate_cal ul {
-    color: #fff;
+    color: #000000;
     list-style: none;
 }
 
 .shipping-rates li i {
     font-size: 10px;
     margin-right: 5px;
-    color: #f2f69f;
+    color: #000;
 }
 
 .pincode_check i {
